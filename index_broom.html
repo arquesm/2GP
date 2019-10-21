@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Broom</title>
+    <style type="text/css">
+        @font-face{
+            font-family:'maus';
+            src:url('fonts/maus/maus____.eot'),
+                url('fonts/maus/maus____.woff2'),
+                url('fonts/maus/Maus.svg'),
+                url('fonts/maus/Maus.ttf'),
+                url('fonts/maus/Maus.woff');
+        }
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body>p{
+            position: fixed;
+            font-family: 'maus';
+            font-size: 20vw;
+        }
+        p[title="b1"]{
+            top: 0;
+            left: 0;
+        }
+        p[title="b2"]{
+            top: 0;
+            right: 0;
+            transform: rotate(180deg);
+           /*transform: scale(-1,-1);*/
+        }
+        div p{
+            font-family: "Georgia";
+             position: absolute;
+        }
+        div p:first-child{
+            font-size: 30px;
+            left: 0;
+            top: 0;
+        }
+        div p:last-child{
+            right: 0;
+            top: -10px;
+            font-size: 120px;
+        }
+        div[title="c1"]{
+            position: fixed;
+            width: 100px;
+            height: 100px;
+            top: 0;
+            left: 40%;
+        }
+         div[title="c2"]{
+            position: fixed;
+            width: 100px;
+            height: 100px;
+            top: 40%;
+            left: 0;
+            transform: rotate(180deg);
+        }
+    </style>
+</head>
+<body>
+    <p title="b1">B</p>
+    <p title="b2">B</p>
+    <div title="c1">
+        <p>vol.</p>s
+        <p>6</p>
+    </div>
+    
+    <div title="c2">
+        <p>vol.</p>
+        <p>1</p>
+    </div>
+</body>
+</html>
