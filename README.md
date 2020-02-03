@@ -33,4 +33,4 @@
 * [LayerMotionSlideshow](LayerMotionSlideshow.zip)
 * [MultiboxMenu](MultiboxMenu.zip)
 * [SlideOutBoxMenu](SlideOutBoxMenu.zip)
-* [ResponsiveMultilevelMenu](ResponsiveMultilevelMenu.zip)
+* [ResponsiveMultiLevelMenu](ResponsiveMultiLevelMenu.zip)
