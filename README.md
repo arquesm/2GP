@@ -1,4 +1,4 @@
-# [2GP](https://arquesm.github.io/2GP/)
+# [2GP 2019/20](https://arquesm.github.io/2GP/)
 2GP 1920 - Recursos Interactius Aplicats
 
 ## 14.Pràctica document_js
