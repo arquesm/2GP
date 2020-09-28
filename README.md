@@ -1,5 +1,5 @@
 # [2GP](https://arquesm.github.io/2GP/)
-2GP - Recursos Interactius Aplicats
+2GP 1920 - Recursos Interactius Aplicats
 
 ## 14.Pràctica document_js
 * Iván i Maria
